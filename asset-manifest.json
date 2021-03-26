@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/github.io/keyfinder/static/css/main.66e78260.chunk.css",
+    "main.js": "/github.io/keyfinder/static/js/main.7e203fa3.chunk.js",
+    "main.js.map": "/github.io/keyfinder/static/js/main.7e203fa3.chunk.js.map",
+    "runtime-main.js": "/github.io/keyfinder/static/js/runtime-main.d5f52bbe.js",
+    "runtime-main.js.map": "/github.io/keyfinder/static/js/runtime-main.d5f52bbe.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/github.io/keyfinder/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ceb32aad.chunk.js": "/github.io/keyfinder/static/js/2.ceb32aad.chunk.js",
+    "static/js/2.ceb32aad.chunk.js.map": "/github.io/keyfinder/static/js/2.ceb32aad.chunk.js.map",
+    "static/js/3.c921e179.chunk.js": "/github.io/keyfinder/static/js/3.c921e179.chunk.js",
+    "static/js/3.c921e179.chunk.js.map": "/github.io/keyfinder/static/js/3.c921e179.chunk.js.map",
+    "index.html": "/github.io/keyfinder/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/github.io/keyfinder/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.66e78260.chunk.css.map": "/github.io/keyfinder/static/css/main.66e78260.chunk.css.map",
+    "static/js/2.ceb32aad.chunk.js.LICENSE.txt": "/github.io/keyfinder/static/js/2.ceb32aad.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/github.io/keyfinder/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5f52bbe.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ceb32aad.chunk.js",
+    "static/css/main.66e78260.chunk.css",
+    "static/js/main.7e203fa3.chunk.js"
+  ]
+}
